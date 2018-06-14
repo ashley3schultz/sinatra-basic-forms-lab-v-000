@@ -4,13 +4,13 @@ class App < Sinatra::Base
 
   get '/' do
 
-  end 
+  end
 
-  get '/new' do 
+  get '/new' do
 
-  end 
+  end
 
-  post '/' do 
-    
+  post '/' do
+
   end
 end
